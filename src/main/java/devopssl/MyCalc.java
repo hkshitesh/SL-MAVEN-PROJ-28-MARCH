@@ -20,7 +20,7 @@ public class MyCalc {
 	}
 	void show()
 	{
-		System.out.println("Master Branch");
+		System.out.println("Dev Branch");
 	}
 
 	public static void main(String[] args) {
