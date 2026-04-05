@@ -1,5 +1,5 @@
 name: GitHub Actions Demo 
-run-name: Testing out GitHub Actions Event Trigger  
+run-name: Testingg out GitHub Actions Event Trigger  
 on: 
   push: 
     branches: 
